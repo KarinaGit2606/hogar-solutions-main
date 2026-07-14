@@ -1,0 +1,10 @@
+# CORRECCIÓN CRÍTICA #2: Archivo robots.txt creado (faltaba completamente)
+# Este sitio es una demo de portafolio, no querés que Google lo indexe como si fuera un restaurante real. 
+# El Disallow: / le dice a Google que no lo rastree, evitando que compita o confunda a los visitantes. Es la configuración correcta para un sitio demo.
+# Debe ser accesible en https://portafolio4.kreaweb.com.ar/robots.txt
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://portafolio4.kreaweb.com.ar/sitemap.xml
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  CORRECCIÓN CRÍTICA #2: sitemap.xml creado (faltaba completamente).
+  Aunque bloqueás el rastreo en robots.txt, tener el sitemap es buena práctica. 
+  El changefreq: never refuerza que es contenido estático demo.
+  IMPORTANTE: Actualizar <lastmod> al redesplegar el sitio.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://portafolio4.kreaweb.com.ar/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.1</priority>
+  </url>
+</urlset>
