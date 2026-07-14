@@ -12,7 +12,7 @@ import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
 import { Badge } from "@/components/ui/badge";
-import heroImg from "@/assets/hero-handyman.jpg";
+import heroImg from "@/assets/hero-handyman.webp";
 
 const WHATSAPP_NUMBER = "5491100000000";
 const PHONE = "+54 11 0000-0000";
